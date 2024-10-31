@@ -1,0 +1,65 @@
+/* general settings screen*/
+
+div.puddinq-form-settings {
+    width: 100%;
+    overflow: hidden;
+}
+
+
+
+.puddinq-form-settings > div.pudash-block {
+    width: 390px;
+    margin-bottom: 12px;
+    float:left;
+    margin-right: 6px;
+
+}
+
+.puddinq-form-settings > div .puddinq-inputs {
+    overflow: hidden;
+}
+.puddinq-form-settings .puddinq-label {
+    padding: 11px;
+    background: #fff;
+    font-weight: 700;
+}
+
+.puddinq-form-settings .puddinq-inputs {
+    padding: 12px;
+}
+
+.puddinq-left {
+    float: left;
+    width: 185px;
+}
+
+.puddinq-right {
+    float: left;
+    min-height: 130px;
+
+}
+
+.pudash-images .puddinq-right {
+    float: left;
+    margin-left: 18px;
+}
+
+#puddinq-color-picker-reset {
+    padding: 5px;
+    border: 2px solid #000;
+    background: deepskyblue;
+}
+/* colors activated screen*/
+
+.image-preview-wrapper img {
+    width: 25px;
+    height: 25px;
+}
+
+
+@media screen and (max-width: 782PX) {
+    .image-preview-wrapper img {
+        width: 30px;
+        height: 30px;
+    }
+}

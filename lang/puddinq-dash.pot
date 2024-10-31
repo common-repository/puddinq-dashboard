@@ -1,0 +1,150 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Puddinq Dashboard\n"
+"POT-Creation-Date: 2019-05-11 15:21+0200\n"
+"PO-Revision-Date: 2017-01-01 14:42+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.13\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: puddinq-dashboard.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/functions.php:63 includes/functions.php:173
+msgid "(de)select all"
+msgstr ""
+
+#: includes/functions.php:108
+msgid "Choose "
+msgstr ""
+
+#: includes/functions.php:197
+msgid "General settings, widgets, themes, colors and more."
+msgstr ""
+
+#: includes/functions.php:223
+msgid " could not be passed as creditable"
+msgstr ""
+
+#: includes/init.php:224
+msgid "Puddinq Dashboard Settings"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: includes/init.php:225
+msgid "Puddinq Dashboard"
+msgstr ""
+
+#: includes/init.php:317
+msgid "Set as image!"
+msgstr ""
+
+#: includes/settings.php:27
+msgid "Main settings"
+msgstr ""
+
+#: includes/settings.php:37
+msgid "Hide basic widgets"
+msgstr ""
+
+#: includes/settings.php:43
+msgid "Show/Hide widgets"
+msgstr ""
+
+#: includes/settings.php:44
+msgid "Select to hide"
+msgstr ""
+
+#: includes/settings.php:53
+msgid "Dasboard picture"
+msgstr ""
+
+#: includes/settings.php:58 includes/settings.php:63
+msgid "Show puddinq widgets"
+msgstr ""
+
+#: includes/settings.php:64 includes/settings.php:79
+msgid "Select to activate"
+msgstr ""
+
+#: includes/settings.php:73
+msgid "Optical misc"
+msgstr ""
+
+#: includes/settings.php:78
+msgid "Change logo, colors and more"
+msgstr ""
+
+#: includes/settings.php:82 includes/settings.php:101
+msgid "Change logo"
+msgstr ""
+
+#: includes/settings.php:83 includes/settings.php:116
+msgid "Change colors"
+msgstr ""
+
+#: includes/settings.php:91
+msgid "Set images"
+msgstr ""
+
+#: includes/settings.php:97
+msgid "Select an image"
+msgstr ""
+
+#: includes/settings.php:98
+msgid "Works if action is activated"
+msgstr ""
+
+#: includes/settings.php:106
+msgid "Change Dashboard Image"
+msgstr ""
+
+#: includes/settings.php:122
+msgid "Select a color"
+msgstr ""
+
+#: includes/settings.php:123
+msgid "Works if change colors is activated"
+msgstr ""
+
+#: includes/settings.php:126
+msgid "Background color"
+msgstr ""
+
+#: includes/settings.php:131
+msgid "Block heads"
+msgstr ""
+
+#: includes/settings.php:136
+msgid "Block background"
+msgstr ""
+
+#: includes/settings.php:141
+msgid "Text"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/puddinq-dashboard/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Show hide admin dashboard widgets"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Stefan Schotvanger"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.puddinq.nl/wip/stefan-schotvanger/"
+msgstr ""

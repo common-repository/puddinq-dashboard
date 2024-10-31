@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Puddinq Dashboard\n"
+"POT-Creation-Date: 2019-05-11 15:21+0200\n"
+"PO-Revision-Date: 2019-05-11 15:21+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.13\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: puddinq-dashboard.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/functions.php:63 includes/functions.php:173
+msgid "(de)select all"
+msgstr "(de)selecteer alles"
+
+#: includes/functions.php:108
+msgid "Choose "
+msgstr "Kies "
+
+#: includes/functions.php:197
+msgid "General settings, widgets, themes, colors and more."
+msgstr "Algemene instellingen, widgets, theama's, kleuren en meer."
+
+#: includes/functions.php:223
+msgid " could not be passed as creditable"
+msgstr "kan de versonden informative niet positief valideren"
+
+#: includes/init.php:224
+msgid "Puddinq Dashboard Settings"
+msgstr "Puddinq Dashboard Instellingen"
+
+#. Plugin Name of the plugin/theme
+#: includes/init.php:225
+msgid "Puddinq Dashboard"
+msgstr "Puddinq Dashboard"
+
+#: includes/init.php:317
+msgid "Set as image!"
+msgstr "Instellen als afbeelding!"
+
+#: includes/settings.php:27
+msgid "Main settings"
+msgstr "Algemene settings"
+
+#: includes/settings.php:37
+msgid "Hide basic widgets"
+msgstr "Standaard widgets niet laten zien"
+
+#: includes/settings.php:43
+msgid "Show/Hide widgets"
+msgstr "Verberg of laat widgets zien"
+
+#: includes/settings.php:44
+msgid "Select to hide"
+msgstr "Selecteer om te verberegen"
+
+#: includes/settings.php:53
+msgid "Dasboard picture"
+msgstr "Dashbord afbeelding"
+
+#: includes/settings.php:58 includes/settings.php:63
+msgid "Show puddinq widgets"
+msgstr "Laat puddinq widgets zien"
+
+#: includes/settings.php:64 includes/settings.php:79
+msgid "Select to activate"
+msgstr "Selecteer om te activeren"
+
+#: includes/settings.php:73
+msgid "Optical misc"
+msgstr "Optisch en divers"
+
+#: includes/settings.php:78
+msgid "Change logo, colors and more"
+msgstr "Verander logo, kleuren en meer."
+
+#: includes/settings.php:82 includes/settings.php:101
+msgid "Change logo"
+msgstr "verander logo"
+
+#: includes/settings.php:83 includes/settings.php:116
+msgid "Change colors"
+msgstr "Verander kleuren"
+
+#: includes/settings.php:91
+msgid "Set images"
+msgstr "Afbeeldingen instellen"
+
+#: includes/settings.php:97
+msgid "Select an image"
+msgstr "Selecteer een afbeelding"
+
+#: includes/settings.php:98
+msgid "Works if action is activated"
+msgstr "Werkt als optie is geactiveerd"
+
+#: includes/settings.php:106
+msgid "Change Dashboard Image"
+msgstr "Verander dashboard afbeelding"
+
+#: includes/settings.php:122
+msgid "Select a color"
+msgstr "Selecteer een kleur"
+
+#: includes/settings.php:123
+msgid "Works if change colors is activated"
+msgstr "Werkt als verander kleuren is ingeschakeld"
+
+#: includes/settings.php:126
+msgid "Background color"
+msgstr "Achtergrond kleur"
+
+#: includes/settings.php:131
+msgid "Block heads"
+msgstr "Blok labels"
+
+#: includes/settings.php:136
+msgid "Block background"
+msgstr "Blok achtergrond"
+
+#: includes/settings.php:141
+msgid "Text"
+msgstr "Tekst"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/puddinq-dashboard/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Show hide admin dashboard widgets"
+msgstr "Verberg of laat admin dashboard widgets zien"
+
+#. Author of the plugin/theme
+msgid "Stefan Schotvanger"
+msgstr "Stefan Schotvanger"
+
+#. Author URI of the plugin/theme
+msgid "http://www.puddinq.nl/wip/stefan-schotvanger/"
+msgstr "http://www.puddinq.nl/wip/stefan-schotvanger/"
+
+#~ msgid "Incoming links"
+#~ msgstr "Binnenkomende links"
+
+#~ msgid "plugins"
+#~ msgstr "plugins"
+
+#~ msgid "Primary"
+#~ msgstr "primair"
+
+#~ msgid "Secondary"
+#~ msgstr "Secondairy"
+
+#~ msgid "Quickpress"
+#~ msgstr "Eenvoudig een concept maken"
+
+#~ msgid "Recent drafts"
+#~ msgstr "Recente concepten"
+
+#~ msgid "Recent comments"
+#~ msgstr "Recente reacties"
+
+#~ msgid "Ringht now"
+#~ msgstr "Op dit moment"
+
+#~ msgid "Activity"
+#~ msgstr "Activiteiten"
